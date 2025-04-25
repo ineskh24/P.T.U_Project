@@ -1,6 +1,6 @@
-# e_learning
+# 📚 P.T.U – E-learning Mobile Application
 
-A new Flutter project.
+StormLearn is a modern and intuitive e-learning mobile application built with Flutter. It allows students to access interactive course materials (PDFs, videos, TDs, TPs), take quizzes, view their grades, and track their learning progress in a smooth and engaging way. Designed
 
 ## Getting Started
 
